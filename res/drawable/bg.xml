@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 饮品店主题渐变背景：从清新的奶茶色到淡紫色 -->
+    <gradient
+        android:angle="135"
+        android:startColor="#FFF5E6"
+        android:centerColor="#FFE4B5"
+        android:endColor="#DDA0DD"
+        android:type="linear" />
+</shape>
+
