@@ -7,17 +7,18 @@
 线上饮品店是一个完整的 Android 电商应用，用户可以浏览各种饮品、添加到购物车、下单购买，并查看历史订单记录。应用采用 Material Design 设计规范，界面简洁美观。
 
 ## 📱 界面预览
+
 #### 登录页面
-![登录页面](screenshots/login.png)
+<img src="screenshots/login.png" alt="登录页面" width="300">
 
 #### 首页 - 商品列表
-![首页](screenshots/home.png)
+<img src="screenshots/home.png" alt="首页" width="300">
 
 #### 个人中心
-![个人中心](screenshots/profile.png)
+<img src="screenshots/profile.png" alt="个人中心" width="300">
 
 #### 购物车
-![购物车](screenshots/cart.png)
+<img src="screenshots/cart.png" alt="购物车" width="300">
 
 
 ## ✨ 主要功能
