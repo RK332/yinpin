@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon1"
+        android:label="线上饮品店"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SmallShop">
+        <activity
+            android:name=".activity.LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".activity.RegisterActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".activity.MainActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".activity.DetailActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".activity.AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.InfoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.RecordActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>
