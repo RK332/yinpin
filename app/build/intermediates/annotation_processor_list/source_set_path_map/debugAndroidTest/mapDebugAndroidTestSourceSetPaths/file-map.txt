@@ -1,0 +1,4 @@
+com.example.yinpin.test.app-androidTest-0 D:\develop\as\workspace\YinPin\app\build\generated\res\resValues\androidTest\debug
+com.example.yinpin.test.app-mergeDebugAndroidTestResources-1 D:\develop\as\workspace\YinPin\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.yinpin.test.app-mergeDebugAndroidTestResources-2 D:\develop\as\workspace\YinPin\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.yinpin.test.app-debugAndroidTest-3 D:\develop\as\workspace\YinPin\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
